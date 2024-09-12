@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
+{% forked from https://github.com/pages-themes/slate %}
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,9 +30,9 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
-          {% for page in site.pages %}
-            <a href={{ page.filename }}>{{ page.title }}</a>
-          {% endfor %}
+          {% navigation %}
+          <a href="/">Homepage</a>
+          <a href="about">About</a>
         </header>
     </div>
 

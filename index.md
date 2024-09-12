@@ -1,6 +1,6 @@
 ---
-title: Martin Schumann - Homepage
+title: Homepage
 layout: template
-filename: index.md
+filename: index
 ---
-# Martin Schumann
+# Martin Schumann - Homepage
