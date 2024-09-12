@@ -1,2 +1,4 @@
-# About
+---
+title: About
+---
 German and US Citizen.
