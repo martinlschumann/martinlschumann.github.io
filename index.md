@@ -1,6 +1,6 @@
 ---
 title: Martin Schumann - Homepage
-layout: default
+layout: template
 filename: index.md
 ---
 # Martin Schumann

@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: template
 filename: about.md
 ---
 # About
