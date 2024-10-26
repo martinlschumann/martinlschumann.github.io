@@ -49,5 +49,6 @@ Internship at Hacker Dojo, Mountain View.<br>Programming in Python and JavaScrip
 ### About Me
 
 I am German and US Citizen. My hobbies include hiking and photography.
-My linkedin: [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/martinlschumann/)
+
+My Linkedin: [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/martinlschumann/)
 
