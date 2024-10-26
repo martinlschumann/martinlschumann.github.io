@@ -24,4 +24,6 @@ title: About
 
 
 ### About Me
-I am German and US Citizen. My Hobbies include Hiking and Photography.
+I am German and US Citizen. My hobbies include hiking and photography.
+My linkedin: [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/martinlschumann/)
+
