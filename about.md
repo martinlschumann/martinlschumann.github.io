@@ -7,24 +7,20 @@ title: About
 ### Education
 
 <small>October 2022 - October 2024 (Expected)</small>
-
-MSc of computer science at the Ludwig Maximilian University of Munich.<br>
+<br>MSc of computer science at the Ludwig Maximilian University of Munich.<br>
 Thesis: "Self-Training with AutoML: Empirical Exploration and Data-Driven Design Improvements"
 
 <small>July 2022</small>
-
-Bachelor of science in computer science with a minor in economics.<br>
+<br>Bachelor of science in computer science with a minor in economics.<br>
 German Grade: 2.34 (Scale: 1 (best) - 4)<br>
 Thesis: "Scheduling System for Remote Control of Instruments used for Atmospheric Observation"<br>
 Grade: 1.3
 
 <small>April 2019 - July 2022</small>
-
-Undergraduate student of computer science with a minor in economics at the Ludwig Maximilian University of Munich.
+<br>Undergraduate student of computer science with a minor in economics at the Ludwig Maximilian University of Munich.
 
 <small>June 2013</small>
-
-Baccalaureate (Abitur) & High School Diploma from German International School of Silicon Valley (GISSV), Mountain View, CA, USA
+<br>Baccalaureate (Abitur) & High School Diploma from German International School of Silicon Valley (GISSV), Mountain View, CA, USA
 
 
 ### Experience
