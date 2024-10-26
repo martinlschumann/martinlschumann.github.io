@@ -1,4 +1,7 @@
 ---
 title: Homepage
 ---
-My name is Martin Schumann, welcome to my site!
+{% include figure.html image="DSC_0275.jpg" width="800" height="531" %}
+
+My name is Martin Schumann, welcome to my site! I am an MSc Student at the [LMU Munich](https://www.lmu.de/en/). I am currently looking for a PhD position.
+
