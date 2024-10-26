@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: false
 ---
 {% include figure.html image="assets/images/DSC_0275.jpeg" width="602" height="400" %}
 
