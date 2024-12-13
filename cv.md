@@ -4,7 +4,7 @@ title: CV
 
 ## Education
 
-<small>October 2022 - October 2024 (Expected)</small>
+<small>October 2022 - December 2024 (Expected)</small>
 <br>MSc of computer science at the Ludwig Maximilian University of Munich.<br>
 Thesis: "Self-Training with AutoML: Empirical Exploration and Data-Driven Design Improvements"
 
