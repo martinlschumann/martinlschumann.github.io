@@ -8,7 +8,8 @@ In my free time, I also enjoy reading.
 I enjoy programming, both professionally and as a hobby.
 While primarily working with Python, I am also fluent in Java and C.
 Exploring new languages and paradigms is also of interest to me.
-My programming interests include Machine Learning, AI and High Performance Computing.
+I thrive on challenges and enjoy solving difficult problems and building system using original ideas and achieving superior functionality.
+My computer science interests include Machine Learning, AI and High Performance Computing.
 Furthermore, I find scheduling and SAT problems interesting.
 
 I am German and US Citizen.
