@@ -10,6 +10,9 @@ title: Publications
 <small>Martin Schumann</small>
 <br>"Enhancing Semi-Supervised Learning with a Meta-Feature Based Safeguard System", Symposium on Intelligent Data Analysis (IDA), 2025 (under review)
 
+<small>Gabriele Scheler, Martin L Schumann, and Johann Schumann.</small>
+<br>"Localist neural plasticity identified by mutual information.", Journal Computational Neuro Science, Springer, 2025 (under review)
+
 ## Theses
 
 [Masters Thesis](../assets/pdfs/main.pdf)
