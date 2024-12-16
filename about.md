@@ -1,9 +1,19 @@
 ---
 title: About Me
 ---
+My hobbies include hiking, photography, traveling and cooking.
+I love to take pictures of the nature around me and the animals I meet along the way.
+In my free time, I also enjoy reading.
 
-I am German and US Citizen. My hobbies include hiking and photography.
-<br>My Linkedin: [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/martinlschumann/)
+I enjoy programming, both professionally and as a hobby.
+While primarily working with Python, I am also fluent in Java and C.
+Exploring new languages and paradigms is also of interest to me.
+My programming interests include Machine Learning, AI and High Performance Computing.
+Furthermore, I find scheduling and SAT problems interesting.
+
+I am German and US Citizen.
+
+<br>You can find me on my Linkedin: [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/martinlschumann/)
 
 ## Selected Photos
 
