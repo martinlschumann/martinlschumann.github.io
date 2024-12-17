@@ -8,7 +8,7 @@ title: Publications
 <br>"Data Management, Operating-on-Demand and Beyond - The Alpine Environmental Data Analysis Centre (AlpEnDAC)", Living Planet Symposium 2022, esa, Bonn, [Link](../assets/pdfs/AlpEnDAC_LPS-2022_final.pdf)
 
 <small>M. Schumann</small>
-<br>"Enhancing Semi-Supervised Learning with a Meta-Feature Based Safeguard System", Symposium on Intelligent Data Analysis (IDA), 2025 (under review)
+<br>"Enhancing Semi-Supervised Learning with a Meta-Feature Based Safeguard System", Symposium on Intelligent Data Analysis (IDA), 2025 (under review), [Link](../assets/pdfs/IDA_2025_Martin_Schumann.pdf)
 
 <small>G. Scheler, M. Schumann, and J. Schumann</small>
 <br>"Localist neural plasticity identified by mutual information.", Journal Computational Neuro Science, Springer, 2025 (under review)
