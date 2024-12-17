@@ -120,6 +120,10 @@ navigation_header:
   url: /cv/
 - title: Publications
   url: /publications/
+- title: LinkedIn
+  url: https://www.linkedin.com/in/martinlschumann/
+- title: GitHub
+  url: https://github.com/martinlschumann
 # - title: Blog
 #   url: /blog/
 # - title: Categories
