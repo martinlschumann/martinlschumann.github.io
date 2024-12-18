@@ -4,7 +4,7 @@ title: CV
 
 ## Education
 
-<small>October 2022 - December 2024 (Expected)</small>
+<small>October 2022 - December 2024</small>
 <br>MSc of computer science at the Ludwig Maximilian University of Munich.<br>
 German Grade: 2.05 (Scale: 1 (best) - 4)<br>
 Thesis: "Self-Training with AutoML: Empirical Exploration and Data-Driven Design Improvements"<br>
