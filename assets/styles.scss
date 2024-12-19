@@ -3,18 +3,25 @@ title: false
 styles: true
 ---
 
-.figure {
-  display: inline-block;
-  margin: 0 10px;
-  border: 1px solid #ccc;
-  padding: 10px;
-  width: 45%;
-  box-sizing: border-box;
+/* Container for the figures */
+.image-container {
+    display: flex;           /* Use flexbox to align figures side by side */
+    justify-content: space-between; /* Space between the figures */
+    gap: 20px;               /* Add spacing between the figures */
+    align-items: center;     /* Align figures vertically */
+}
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+/* Figures */
+.figure {
+    flex: 1;                 /* Allow figures to adjust size equally */
+    max-width: 50%;          /* Ensure each figure takes no more than half the container width */
+    text-align: center;      /* Optional: center the figure contents */
+}
+
+/* Images */
+.image {
+    width: 100%;             /* Images fill the figure width */
+    height: auto;            /* Maintain aspect ratio */
 }
 
 @import "alembic";

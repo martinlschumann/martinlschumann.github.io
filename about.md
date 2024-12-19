@@ -20,6 +20,8 @@ I am German and US Citizen.
 
 ## Selected Photos
 
+<div class="image-container">
+
 {% include figure.html image="../assets/images/DSC_0267.jpeg" %}
 
 {% include figure.html image="../assets/images/DSC_0065.jpeg" %}
@@ -27,3 +29,5 @@ I am German and US Citizen.
 {% include figure.html image="../assets/images/DSC_0098.jpeg" %}
 
 {% include figure.html image="../assets/images/DSC_0111.jpeg" %}
+
+</div>
