@@ -36,7 +36,7 @@ I am German and US Citizen.
 
 {% include figure.html image="../assets/images/IMG_1987.jpeg" %}
 
-{% include figure.html image="../assets/images/IMG_2202.jpeg" %}
+{% include figure.html image="../assets/images/IMG_2395.jpeg" %}
 
 
 </div>
