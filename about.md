@@ -30,4 +30,13 @@ I am German and US Citizen.
 
 {% include figure.html image="../assets/images/DSC_0111.jpeg" %}
 
+{% include figure.html image="../assets/images/IMG_2394.jpeg" %}
+
+{% include figure.html image="../assets/images/IMG_2393.jpeg" %}
+
+{% include figure.html image="../assets/images/IMG_1987.jpeg" %}
+
+{% include figure.html image="../assets/images/IMG_2202.jpeg" %}
+
+
 </div>
