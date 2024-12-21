@@ -13,6 +13,9 @@ title: Publications
 <small>G. Scheler, M. Schumann, and J. Schumann</small>
 <br>"Localist neural plasticity identified by mutual information.", Journal Computational Neuro Science, Springer, 2025 (under review)
 
+<small>M. Schumann et al.</small>
+<br> "Railway Schedule Optimization using Gate Based Quantum Computers" (in preparation)
+
 ## Theses
 
 [Masters Thesis](../assets/pdfs/main.pdf)
