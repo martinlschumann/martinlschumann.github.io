@@ -12,13 +12,12 @@ I thrive on challenges and enjoy solving difficult problems and building system 
 My computer science interests include Machine Learning, AI and High Performance Computing.
 Furthermore, I find scheduling and SAT problems interesting.
 
-I am German and US Citizen.
-
 {% comment %}
+I am German and US Citizen.
 <br>You can find me on my Linkedin and Github: [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/martinlschumann/) [{% include icon.html id="github" title="github" %}](https://github.com/martinlschumann/)
 {% endcomment %}
 
-## Selected Photos
+## Some Pictures
 
 <div class="image-container">
 
