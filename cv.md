@@ -4,7 +4,7 @@ title: CV
 
 ## Education
 
-<small>October 2022 - December 2024</small>
+<small>October 2022 - September 2024</small>
 <br>Master of Science in computer science at the Ludwig Maximilian University of Munich.<br>
 Thesis: "Self-Training with AutoML: Empirical Exploration and Data-Driven Design Improvements"<br>
 Grade: 1.3
@@ -22,6 +22,9 @@ Grade: 1.3
 
 
 ## Experience
+
+<small>April 2025 - Present</small>
+<br>Researcher at the Technical University in Munich, Germany.<br>I analyze worst-case scenarios of complex control algorithms in aeronautics.<br>My objective is to identify critical combinations of control inputs that lead to dangerous situations and provide the basis for optimal responses.<br>To achieve this, I use deep reinforcement learning algorithms to explore the problem space and find these situations.
 
 <small>February - October 2020</small>
 <br>Student assistant at Leibniz-Rechenzentrum in Munich, Germany.<br>Worked on the planning, implementation, support and documentation of a Kubernetes as a Service system.<br>This included creating Ansible playbooks and CI pipelines for installation and configuration of the required components and the evaluation of different Container Network Interfaces for the Cluster.
