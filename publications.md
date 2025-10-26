@@ -3,7 +3,7 @@ title: Publications
 ---
 
 <small>M. Schumann</small>
-<br>"Enhancing Semi-Supervised Learning with a Meta-Feature Based Safeguard System", KI 2025, Potsdam, Germany, [Link](https://ki2025.gi.de/program/accepted-papers)
+<br>"Enhancing Semi-Supervised Learning with a Meta-Feature Based Safeguard System", KI 2025, Potsdam, Germany, [Link](https://link.springer.com/chapter/10.1007/978-3-032-02813-6_10)
 
 <small>M. Schumann et al.</small>
 <br>"Railway Schedule Optimization using Gate Based Quantum Computers", QUANTUMatter 2025, Grenoble, France, [Link](https://quantumconf.eu/2025/posters.php)
