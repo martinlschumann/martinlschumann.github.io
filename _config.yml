@@ -83,7 +83,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: en-US # Set the site language
 title: "Martin Lukas Schumann" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
@@ -91,6 +91,7 @@ url: "martinlschumann.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # repo: "https://github.com/daviddarnes/alembic"
 email: "martinlschumann@gmail.com"
+google_site_verification: "qU5NtHGJhj6mAo5OQA4fkUtYKqw_E76eBDBiwBKzMko"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
