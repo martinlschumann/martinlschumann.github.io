@@ -23,11 +23,14 @@ Grade: 1.3
 
 ## Experience
 
-<small>April 2025 - Present</small>
-<br>Researcher at the Technical University in Munich, Germany.<br>I analyze worst-case scenarios of complex control algorithms in aeronautics.<br>My objective is to identify critical combinations of control inputs that lead to dangerous situations and provide the basis for optimal responses.<br>To achieve this, I use deep reinforcement learning algorithms to explore the problem space and find these situations.
+<small>January 2026 - Present</small>
+<br>Systems Developer at Leibniz Supercomputing Centre in Munich, Germany.<br>Develop workflow and data infrastructure for EXA4MIND and NFDI4Earth environmental‑science projects.<br>Design and scale FAIR data pipelines and reusable libraries.<br>Implement CI, automation and testing for reproducible research workflows.
+
+<small>April - December 2025</small>
+<br>Researcher at the Technical University in Munich, Germany.<br>I analyzed worst-case scenarios of complex control algorithms in aeronautics.<br>My objective was to identify critical combinations of control inputs that lead to dangerous situations and provide the basis for optimal responses.<br>To achieve this, I used deep reinforcement learning algorithms to explore the problem space and find these situations.
 
 <small>February - October 2020</small>
-<br>Student assistant at Leibniz-Rechenzentrum in Munich, Germany.<br>Worked on the planning, implementation, support and documentation of a Kubernetes as a Service system.<br>This included creating Ansible playbooks and CI pipelines for installation and configuration of the required components and the evaluation of different Container Network Interfaces for the Cluster.
+<br>Student assistant at Leibniz Supercomputing Centre in Munich, Germany.<br>Worked on the planning, implementation, support and documentation of a Kubernetes as a Service system.<br>This included creating Ansible playbooks and CI pipelines for installation and configuration of the required components and the evaluation of different Container Network Interfaces for the Cluster.
 
 <small>April - May 2019</small>
 <br>Intern at BMW Group in Munich, Germany.<br>I wrote custom software in Java to translate UML models into another modeling language (Franca Plus), including defining and documenting both models and how they should be transformed.<br>This software is now in use at BMW.
