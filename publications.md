@@ -1,6 +1,22 @@
 ---
 title: Publications
+hide_title: true
 ---
+
+<h1> Publications
+	<a
+	 id="cy-effective-orcid-url"
+	 class="underline"
+	 href="https://orcid.org/0009-0008-3178-4043"
+	 target="orcid.widget"
+	 rel="me noopener noreferrer"
+	 style="vertical-align: top">
+	 <img
+	    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+	    style="width: 0.6em;"
+	    alt="ORCID iD icon"/>
+	</a>
+</h1>
 
 <small>M. Schumann</small>
 <br>"Enhancing Semi-Supervised Learning with a Meta-Feature Based Safeguard System", KI 2025, Potsdam, Germany, [Link](https://link.springer.com/chapter/10.1007/978-3-032-02813-6_10)
